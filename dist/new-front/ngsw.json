@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "/new-front/index.html",
+  "index": "https://matiasRos.github.io/new-front/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/new-front/favicon.ico",
-        "/new-front/index.html",
-        "/new-front/main.e7d4fa32b38ed6e66cc7.js",
-        "/new-front/polyfills.50aa5bb6102ae74ed53f.js",
-        "/new-front/runtime.a66f828dca56eeb90e02.js",
-        "/new-front/scripts.6cf4da7113bcd1218d80.js",
-        "/new-front/styles.3ff695c00d717f2d2a11.css"
+        "https://matiasRos.github.io/new-front/favicon.ico",
+        "https://matiasRos.github.io/new-front/index.html",
+        "https://matiasRos.github.io/new-front/main.e7d4fa32b38ed6e66cc7.js",
+        "https://matiasRos.github.io/new-front/polyfills.50aa5bb6102ae74ed53f.js",
+        "https://matiasRos.github.io/new-front/runtime.a66f828dca56eeb90e02.js",
+        "https://matiasRos.github.io/new-front/scripts.6cf4da7113bcd1218d80.js",
+        "https://matiasRos.github.io/new-front/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": []
     },
@@ -22,35 +22,35 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/new-front/assets/icons/icon-128x128.png",
-        "/new-front/assets/icons/icon-144x144.png",
-        "/new-front/assets/icons/icon-152x152.png",
-        "/new-front/assets/icons/icon-192x192.png",
-        "/new-front/assets/icons/icon-384x384.png",
-        "/new-front/assets/icons/icon-512x512.png",
-        "/new-front/assets/icons/icon-72x72.png",
-        "/new-front/assets/icons/icon-96x96.png"
+        "https://matiasRos.github.io/new-front/assets/icons/icon-128x128.png",
+        "https://matiasRos.github.io/new-front/assets/icons/icon-144x144.png",
+        "https://matiasRos.github.io/new-front/assets/icons/icon-152x152.png",
+        "https://matiasRos.github.io/new-front/assets/icons/icon-192x192.png",
+        "https://matiasRos.github.io/new-front/assets/icons/icon-384x384.png",
+        "https://matiasRos.github.io/new-front/assets/icons/icon-512x512.png",
+        "https://matiasRos.github.io/new-front/assets/icons/icon-72x72.png",
+        "https://matiasRos.github.io/new-front/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/new-front/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/new-front/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/new-front/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/new-front/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/new-front/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/new-front/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/new-front/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/new-front/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/new-front/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/new-front/index.html": "ddc3106ae302be6fac1f7346d28d2992743134b6",
-    "/new-front/main.e7d4fa32b38ed6e66cc7.js": "f911c5d0f3eb3cf00603bf8a12d5c9d12255a741",
-    "/new-front/polyfills.50aa5bb6102ae74ed53f.js": "ddf35f345b37339fe434522df96f2461f4cefa80",
-    "/new-front/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/new-front/scripts.6cf4da7113bcd1218d80.js": "7d06da3387fd09a842db0b7333ec2941d0829019",
-    "/new-front/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://matiasRos.github.io/new-front/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://matiasRos.github.io/new-front/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://matiasRos.github.io/new-front/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://matiasRos.github.io/new-front/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://matiasRos.github.io/new-front/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://matiasRos.github.io/new-front/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://matiasRos.github.io/new-front/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://matiasRos.github.io/new-front/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://matiasRos.github.io/new-front/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://matiasRos.github.io/new-front/index.html": "ba93bb9b1cc6e8ad7a41699da5b069e51c314c5f",
+    "https://matiasRos.github.io/new-front/main.e7d4fa32b38ed6e66cc7.js": "f911c5d0f3eb3cf00603bf8a12d5c9d12255a741",
+    "https://matiasRos.github.io/new-front/polyfills.50aa5bb6102ae74ed53f.js": "ddf35f345b37339fe434522df96f2461f4cefa80",
+    "https://matiasRos.github.io/new-front/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "https://matiasRos.github.io/new-front/scripts.6cf4da7113bcd1218d80.js": "7d06da3387fd09a842db0b7333ec2941d0829019",
+    "https://matiasRos.github.io/new-front/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
